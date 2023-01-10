@@ -37,8 +37,7 @@ This project contains a simple smart contract that allows users to fund and with
 
 This project includes mocks and testing for the contract's functions. To run the tests, you will need to: 
 
-1. Install the project dependencies 
-2. Run the test suite 
+ Run the test-fund-me.py
 
 ## Conclusion
 
